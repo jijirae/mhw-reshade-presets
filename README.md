@@ -1,5 +1,5 @@
 # mhw-reshade-presets
-Reshade Presets for the game "MONSTER HUNTER: WORLD".
+Reshade Presets for the game "MONSTER HUNTER: WORLD". Mostly used for screenshots.
 
 <h1>Raeji's Urban</h2>
 

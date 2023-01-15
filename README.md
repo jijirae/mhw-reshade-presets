@@ -25,8 +25,11 @@ And finally...
 Probably my best filter so far. Emphasizes the colors and details. RTGI is recommended for added realism. Great with DOF.
 
 <h2>Installation</h2>
-Drag all .ini files into your Presets folder.
-Create a separate folder for my shaders and add a texture+effect search path to that folder. (Or merge it, up to you!)
+Drag all .ini files into your Presets folder.<br>
+Create a separate folder for my shaders and add a texture+effect search path to that folder. (Or merge it, up to you!)<br>
+Separate download link for shader files (.fx) due to limited upload size on Github.<br>
+[Download](https://pixeldrain.com/u/reSYVjAn)
+
 
 <h3>FAQ</h3>
   

@@ -24,7 +24,7 @@ And finally...
 ![Raeji's Ultimata Sample 2](https://user-images.githubusercontent.com/122718637/212529141-42e01ee8-bbdd-4c03-8916-e32b80fa744e.png)
 Probably my best filter so far. Emphasizes the colors and details. RTGI is recommended for added realism. Great with DOF.
 
-<h2>Installation<h2>
+<h2>Installation</h2>
 Drag all .ini files into your Presets folder.
 Create a separate folder for my shaders and add a texture+effect search path to that folder. (Or merge it, up to you!)
 
